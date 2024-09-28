@@ -50,7 +50,7 @@ defmodule PhoenixStarter.MixProject do
       {:plug_cowboy, "~> 2.0"},
       {:mix_test_watch, "~> 1.0", only: :dev, runtime: false},
       {:ex_doc, "~> 0.23", only: :dev, runtime: false},
-      {:ex_machina, "~> 2.7.0"},
+      {:ex_machina, "~> 2.8.0"},
       {:surface, "~> 0.5.0"}
     ]
   end
